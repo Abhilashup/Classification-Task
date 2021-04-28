@@ -19,4 +19,4 @@
 The model achieves an accuracy of 97% and it has an F1 Score of 0.96 for 0 class and 0.98 for the 1 class. This is a high value and thus tells us that the model is good and can be used to make predictions. As a result of this high F1 score, there are a smaller number of False Positives and False Negatives. The F1 score is a harmonic mean of the Precision and Recall values.
 
 
-# More details about the project can be found in the pdf file that is present in the repository.
+More details about the project can be found in the pdf file that is present in the repository.
